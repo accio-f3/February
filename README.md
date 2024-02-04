@@ -1,3 +1,11 @@
+
+## Instructor
+
+- [@Linkedin](https://www.linkedin.com/in/prikshit8/)
+- +91-8800857472
+
+## Schedule
+
 <table>
   <thead>
     <tr>
